@@ -23,8 +23,8 @@ I am interested in Front-End and Mobile Development, focusing on creating intera
 
 ### Badges
 
-<b>My GitHub Stats</b>
+![tresnamada Stats](https://github-readme-stats.vercel.app/api?username=tresnamada&theme=calm&show_icons=true&hide_border=true&count_private=true)<br/>
+![tresnamada Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tresnamada&theme=calm&show_icons=true&hide_border=true&layout=compact)
 
-<a href="http://www.github.com/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=&stroke=ffffff&background=22272e&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0f172a&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## 🔥 GitHub Streak:
+![tresnamada Streak](https://github-readme-streak-stats.herokuapp.com/?user=kenntcky&theme=calm&hide_border=true)
