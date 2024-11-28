@@ -7,7 +7,7 @@ You can call me Elang, Im studying at SMKN 8 Semarang.
 I am interested in Front-End and Mobile Development, focusing on creating interactive user interfaces using React.js, and Flutter for mobile applications.
 
 * ✉️  You can contact me at [tresnamadagmail.com](mailto:tresnamadagmail.com)
-* 🧠  I'm learning React.JS
+* 🧠  I'm learning Next.JS
 
 ### Skills
 
